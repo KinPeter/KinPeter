@@ -10,6 +10,7 @@ This is the home of my personal side projects.
 
 ## I get along quite well with
 <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img alt="Nestjs" src="https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
@@ -23,7 +24,6 @@ This is the home of my personal side projects.
 
 ## I'm also not afraid to use
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
