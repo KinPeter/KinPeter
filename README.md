@@ -25,6 +25,7 @@ This is the home of my personal side projects.
 ## I'm also not afraid to use
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-E34613?style=for-the-badge&logo=Svelte&logoColor=white" />
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
