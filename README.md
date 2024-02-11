@@ -7,8 +7,8 @@ This is the home of my personal side projects.
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ## I get along quite well with
@@ -36,6 +36,7 @@ This is the home of my personal side projects.
 ## I work using
 
 <p>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows--9cf?style=for-the-badge&logo=Windows&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" />
