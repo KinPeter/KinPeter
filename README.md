@@ -7,6 +7,7 @@ This is the home of my personal hobby projects.
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -28,6 +29,7 @@ This is the home of my personal hobby projects.
 ## I'm also not afraid to use
 
 <p>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Nestjs" src="https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-E34613?style=for-the-badge&logo=Svelte&logoColor=white" />
   <img alt=".Net" src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -38,6 +40,7 @@ This is the home of my personal hobby projects.
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-99ccff?style=for-the-badge&logo=Windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" />
 </p>
 
